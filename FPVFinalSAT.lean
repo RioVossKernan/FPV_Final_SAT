@@ -1,1 +1,2 @@
-import FPVFinalSAT.Basic
+import FPVFinalSAT.TwoSAT
+import FPVFinalSAT.ImplicationGraph
